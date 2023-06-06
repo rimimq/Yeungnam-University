@@ -1,0 +1,46 @@
+{
+  "newsroom": [
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 1",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    },
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 2",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    },
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 3",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    },
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 4",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    },
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 5",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    },
+    {
+      "photo": "newsroom.jpg",
+      "title": "타이틀 6",
+      "date": "2023-06-01",
+      "link": "#",
+      "target": "_blank"
+    }
+  ]
+}

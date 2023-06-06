@@ -1,0 +1,30 @@
+.news {
+  position: relative;
+  background: url("../images/news.gif") no-repeat center;
+  background-size: cover;
+}
+.news .container {
+  padding: 70px 0;
+}
+.news-wrap {
+}
+.news-top {
+}
+.news-top h2 {
+}
+.news-top p {
+}
+.news-main {
+}
+.news-tabmenu {
+}
+.news-tabmenu a {
+}
+.tab-menu-active {
+  color: red !important;
+}
+.news-tabcon {
+}
+.tab-con-active {
+  background: yellowgreen !important;
+}

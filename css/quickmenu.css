@@ -1,0 +1,13 @@
+.quickmenu {
+  position: relative;
+  z-index: 9;
+}
+.quickmenu .container {
+}
+.quickmenu-wrap {
+  position: absolute;
+  background: #0d3f7a;
+  height: 160px;
+  width: 100%;
+  transform: translateY(-50%);
+}

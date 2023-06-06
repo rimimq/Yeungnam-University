@@ -1,0 +1,7 @@
+.visual {
+  position: relative;
+}
+.visual .visual-slide {
+  height: 720px;
+  background: yellowgreen;
+}

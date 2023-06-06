@@ -1,0 +1,9 @@
+{
+  "banner-list": [
+    { "id": 1, "title": "1 공지사항입니다.", "link": "a.html" },
+    { "id": 2, "title": "2 공지사항입니다.", "link": "b.html" },
+    { "id": 3, "title": "3 공지사항입니다.", "link": "c.html" },
+    { "id": 4, "title": "4 공지사항입니다.", "link": "d.html" },
+    { "id": 5, "title": "5 공지사항입니다.", "link": "e.html" }
+  ]
+}
